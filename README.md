@@ -1,8 +1,6 @@
 # [BDReborn](http://uciran.ir)
 * **Install Bot**
 
-git clone https://github.com/Tarfand-pro/ad1.git && cd ad1 && chmod +x beyond.sh && ./beyond.sh install
-
 ***************************************************
 sudo apt-get update; sudo apt-get upgrade; sudo apt-get install lua5.1 luarocks lua-socket lua-sec redis-server curl
 
